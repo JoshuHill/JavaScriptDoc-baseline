@@ -24,7 +24,7 @@ customizations to Baseline.
 
 ## Installing Baseline
 
-1. Add [JSDoc][jsdoc] to your Node.js project as a development dependency:
+1. Add [JSDoc][javascriptdoc] to your Node.js project as a development dependency:
 
     ```sh
     npm install --save-dev jsdoc
